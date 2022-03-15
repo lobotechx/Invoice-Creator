@@ -7,11 +7,14 @@ html {
 }
 
 .bg-top {
+  width: 550px;
+  height: 190px;
   background-color: #3a69d2;
   text-align: center;
   color: white;
 }
 
-/* .h1z {
-  color: white;
-} */
+h1.thick {
+  font-weight: bold;
+  font-weight: 800;
+}
