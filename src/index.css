@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Inter";
+}
+
+.bg-top {
+  width: 550px;
+  height: 190px;
+  background-color: #3a69d2;
+  text-align: center;
+  color: white;
+}
+
+/* .h1z {
+  font-weight: bold;
+  font-weight: 800;
+} */
