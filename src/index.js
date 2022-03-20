@@ -21,3 +21,14 @@ console.log(prices["washCar"]);
 btn1.addEventListener("click", function () {
   for (let i = 0; i < services.length; i++) {}
 });
+btn1.addEventListener("click", function () {
+  for (let i = 0; i < services.length; i++) {}
+});
+
+btn1.addEventListener("click", function () {
+  for (let i = 0; i < services.length; i++) {}
+});
+
+btn1.addEventListener("click", function () {
+  for (let i = 0; i < services.length; i++) {}
+});
